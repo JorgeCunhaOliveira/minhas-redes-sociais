@@ -34,6 +34,7 @@ section#celular{
     transform: translate(-50%, -50%);
     border-radius: 28px;
 }
+
 section > a > img{
     width: 50px;
     border-radius: 50%;
@@ -42,7 +43,14 @@ section > a > img{
 section#logo{
     text-align: right;
     margin: 10px;
-    
 }
-    
+iframe#tela{
+    position: absolute;
+    left: 4px;
+    top: 10px;
+    border-radius: 20px;
+    width: 290px;
+    height: 645px;
+    background-size: auto;
+}
 
