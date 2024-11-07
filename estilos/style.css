@@ -34,5 +34,15 @@ section#celular{
     transform: translate(-50%, -50%);
     border-radius: 28px;
 }
+section > a > img{
+    width: 50px;
+    border-radius: 50%;
+    margin-top: 10px;
+}
+section#logo{
+    text-align: right;
+    margin: 10px;
+    
+}
     
 
